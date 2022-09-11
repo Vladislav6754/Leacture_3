@@ -1,0 +1,27 @@
+ul li img{
+    width: 604px;
+    height: 543px;
+  }
+  .color_red{
+    color: red;
+  }
+  .color_yellow{
+    color: yellow;
+    background: blue;
+  }
+  .color_blue{
+    color: blue;
+    background: yellow;
+  }
+  .ps span{
+    color: rgb(96, 99, 126);
+  }
+  .img_reverse{
+    width: 543px;
+    height: 604px;
+  }
+  #maps{}
+  #first_rain{}
+  #some_photos{}
+  #san_cralo{}
+  #last_rain{}
